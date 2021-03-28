@@ -1,6 +1,6 @@
 ---
 title: "ProgressReport1"
-author: "Kristin Grandstaff, Brecken Roquemore, Andrea Redmond"
+author: "Kristin Grandstaff, Brecken Roquemore, Andrea Redmond, Sarah Powell"
 date: "3/28/2021"
 output: html_document
 ---
@@ -8,28 +8,37 @@ output: html_document
 
 ## Goals 
 
-The goal of this project is to create a tidy, accessible, database using Dr. Utt's ammonite fossil collection. It will be organized by name of specimen, image, date collected, and potentially age of fossil.  
+The goal of this project is to create a tidy, accessible, database using Dr. Utt's ammonite fossil collection. It will be organized by name of specimen, image, date collected, potentially location of collection, and potentially age of fossil.  
 
 ## Progress
 
 We successfully created a repository on GitHub. We all have joined the repository and have access to it through RStudio. We have created this Progress Report file.
 
-<<<<<<< HEAD
-=======
-##Resources Consulted
-We have spoken with Dr. Utt about accessing the fossils for a period of time in order to collect information from them to put into our database.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 91ee5da798a796b69b312933f5f15255401696f0
 ## Including Plots
 =======
 >>>>>>> a597e5ea877972abd545880beec96018091c2fd8
+=======
+## Resources Consulted
+
+We have spoken with Dr. Utt about accessing the fossils for a period of time in order to collect infromation from them to put into our database.
+>>>>>>> ad907ae7600a971fc0343ecb03d2c83b5536ff04
 
 ## Project Portion Assignments
 Andrea, Meagan, and myself (Kristin) are working on the input data section of this project. This will include the name, age, size, and date of addition of each ammonite we incorporate. Brecken and Sarah are doing the output of the data. This will include adding searching element for a specific ammonite that is a part of the input section.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
 =======
 >>>>>>> a597e5ea877972abd545880beec96018091c2fd8
+>>>>>>> 3c5892a7e107c5715ee10ca5b7c979fafa971ada
+=======
+>>>>>>> eb8fba78e55789f561df514285bc9693d9524e9a
