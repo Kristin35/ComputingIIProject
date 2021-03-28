@@ -32,6 +32,5 @@ We have spoken with Dr. Utt about accessing the fossils for a period of time in 
 <<<<<<< HEAD
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
-Please ignore this, I am still testing this file.
 =======
 >>>>>>> a597e5ea877972abd545880beec96018091c2fd8
