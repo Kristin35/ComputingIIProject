@@ -1,21 +1,27 @@
 ---
 title: "ProgressReport1"
-author: "Kristin Grandstaff, Brecken Roquemore"
+author: "Kristin Grandstaff, Brecken Roquemore, Andrea Redmond"
 date: "3/28/2021"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
+## Goals 
+
+The goal of this project is to create a tidy, accessible, database using Dr. Utt's ammonite fossil collection. It will be organized by name of specimen, image, date collected, and potentially age of fossil.  
 
 ## Progress
 
 We successfully created a repository on GitHub. We all have joined the repository and have access to it through RStudio. We have created this Progress Report file.
 
-## Including Plots
+<<<<<<< HEAD
+=======
+##Resources Consulted
+We have spoken with Dr. Utt about accessing the fossils for a period of time in order to collect infromation from them to put into our database.
 
-I am still testing to see if it will work.
+...
+>>>>>>> 91ee5da798a796b69b312933f5f15255401696f0
+## Including Plots
 
 You can also embed plots, for example:
 
@@ -24,3 +30,5 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+Please ignore this, I am still testing
