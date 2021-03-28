@@ -5,9 +5,6 @@ date: "3/28/2021"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Goals 
 
@@ -17,17 +14,28 @@ The goal of this project is to create a tidy, accessible, database using Dr. Utt
 
 We successfully created a repository on GitHub. We all have joined the repository and have access to it through RStudio. We have created this Progress Report file.
 
+<<<<<<< HEAD
 ## Resources Consulted
 
 We have spoken with Dr. Utt about accessing the fossils for a period of time in order to collect infromation from them to put into our database.
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 6f20ba819826c9ffbfec491d143e01f6b6da62ad
 
+<<<<<<< HEAD
 ...
+>>>>>>> 91ee5da798a796b69b312933f5f15255401696f0
 ## Including Plots
+=======
+>>>>>>> a597e5ea877972abd545880beec96018091c2fd8
 
-You can also embed plots, for example:
+## Project Portion Assignments
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
 
+<<<<<<< HEAD
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+Please ignore this, I am still testing this file.
+=======
+>>>>>>> a597e5ea877972abd545880beec96018091c2fd8
