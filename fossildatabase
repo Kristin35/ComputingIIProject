@@ -11,6 +11,9 @@ love you guys
 =======
 hello
 <<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
 can i actually do this
 apparently not
 =======
@@ -23,4 +26,8 @@ Test
 This is another test.
 Words
 This is the most beautiful thing. It actually works!!
+<<<<<<< HEAD
 >>>>>>> 18de0485baff2f75524350f206e1411596068ff7
+=======
+>>>>>>> 0acc9e242c00199bd164db426f7ae735a3a2da76
+>>>>>>> 9ed1129dec2d5513acb69e92c0f92843d02e5ebc
