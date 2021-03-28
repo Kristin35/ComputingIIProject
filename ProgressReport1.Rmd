@@ -20,14 +20,13 @@ We successfully created a repository on GitHub. We all have joined the repositor
 We have spoken with Dr. Utt about accessing the fossils for a period of time in order to collect information from them to put into our database.
 
 <<<<<<< HEAD
-...
 >>>>>>> 91ee5da798a796b69b312933f5f15255401696f0
 ## Including Plots
 =======
 >>>>>>> a597e5ea877972abd545880beec96018091c2fd8
 
 ## Project Portion Assignments
-
+Andrea, Meagan, and myself (Kristin) are working on the input data section of this project. This will include the name, age, size, and date of addition of each ammonite we incorporate. Brecken and Sarah are doing the output of the data. This will include adding searching element for a specific ammonite that is a part of the input section.
 
 <<<<<<< HEAD
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
