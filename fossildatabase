@@ -4,4 +4,24 @@ TESTING THE TEST
 Yes!!!
 TEST
 test
+<<<<<<< HEAD
 hi
+=======
+hi
+hey
+hello
+<<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
+can i actually do this
+apparently not
+=======
+is everything really up to date
+>>>>>>> 4fbcbd5689df4219f385e27bd8562826fabfb4f1
+Test
+This is another test.
+Words
+This is the most beautiful thing. It actually works!!
+>>>>>>> 0acc9e242c00199bd164db426f7ae735a3a2da76
+>>>>>>> 953126ac258360db425d7fc1db40ddf04dac8382
