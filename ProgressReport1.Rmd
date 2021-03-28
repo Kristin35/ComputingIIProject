@@ -1,6 +1,6 @@
 ---
 title: "ProgressReport1"
-author: "Kristin Grandstaff, Brecken Roquemore", "Andrea Redmond"
+author: "Kristin Grandstaff, Brecken Roquemore, Andrea Redmond"
 date: "3/28/2021"
 output: html_document
 ---
