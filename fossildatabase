@@ -4,6 +4,9 @@ TESTING THE TEST
 Yes!!!
 TEST
 test
+<<<<<<< HEAD
+hi
+=======
 hi
 hey
 <<<<<<< HEAD
@@ -30,4 +33,8 @@ This is the most beautiful thing. It actually works!!
 >>>>>>> 18de0485baff2f75524350f206e1411596068ff7
 =======
 >>>>>>> 0acc9e242c00199bd164db426f7ae735a3a2da76
+<<<<<<< HEAD
 >>>>>>> 9ed1129dec2d5513acb69e92c0f92843d02e5ebc
+=======
+>>>>>>> 953126ac258360db425d7fc1db40ddf04dac8382
+>>>>>>> c1d0446414658c03b9bd14e5b8ec06b7b2033eba

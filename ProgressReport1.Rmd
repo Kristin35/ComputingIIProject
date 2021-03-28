@@ -17,7 +17,7 @@ The goal of this project is to create a tidy, accessible, database using Dr. Utt
 
 We successfully created a repository on GitHub. We all have joined the repository and have access to it through RStudio. We have created this Progress Report file.
 
-
+...
 ## Including Plots
 
 You can also embed plots, for example:
