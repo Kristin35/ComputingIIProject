@@ -13,7 +13,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 We successfully created a repository on GitHub. We all have joined the repository and have access to it through RStudio. We have created this Progress Report file.
 
-## Including Plots 
+## Including Plots
+
+I am still testing to see if it will work.
 
 You can also embed plots, for example:
 
