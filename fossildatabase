@@ -6,4 +6,14 @@ TEST
 test
 hi
 hey
+<<<<<<< HEAD
 love you guys
+=======
+hello
+<<<<<<< HEAD
+can i actually do this
+apparently not
+=======
+is everything really up to date
+>>>>>>> 4fbcbd5689df4219f385e27bd8562826fabfb4f1
+>>>>>>> 38f67d3d194e0981b8bce3ca3a2a2b1505a76177
