@@ -8,31 +8,21 @@ output: html_document
 
 ## Goals 
 
-The goal of this project is to create a tidy, accessible, database using Dr. Utt's ammonite fossil collection. It will be organized by name of specimen, image, date collected, and potentially age of fossil.  
+The goal of this project is to create a tidy, accessible, database using Dr. Utt's ammonite fossil collection. It will be organized by name of specimen, image, date collected, potentially location of collection, and potentially age of fossil.  
 
 ## Progress
 
 We successfully created a repository on GitHub. We all have joined the repository and have access to it through RStudio. We have created this Progress Report file.
 
-<<<<<<< HEAD
+
 ## Resources Consulted
 
 We have spoken with Dr. Utt about accessing the fossils for a period of time in order to collect infromation from them to put into our database.
-=======
-<<<<<<< HEAD
-=======
->>>>>>> 6f20ba819826c9ffbfec491d143e01f6b6da62ad
-
-<<<<<<< HEAD
-...
->>>>>>> 91ee5da798a796b69b312933f5f15255401696f0
-## Including Plots
-=======
->>>>>>> a597e5ea877972abd545880beec96018091c2fd8
 
 ## Project Portion Assignments
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 =======
@@ -43,3 +33,5 @@ Please ignore this, I am still testing this file.
 =======
 >>>>>>> a597e5ea877972abd545880beec96018091c2fd8
 >>>>>>> 3c5892a7e107c5715ee10ca5b7c979fafa971ada
+=======
+>>>>>>> eb8fba78e55789f561df514285bc9693d9524e9a
