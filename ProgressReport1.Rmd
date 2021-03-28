@@ -8,7 +8,7 @@ output: html_document
 
 ## Goals 
 
-The goal of this project is to create a tidy, accessible, database using Dr. Utt's ammonite fossil collection. It will be organized by name of specimen, image, date collected, and potentially age of fossil.  
+The goal of this project is to create a tidy, accessible, database using Dr. Utt's ammonite fossil collection. It will be organized by name of specimen, image, date collected, potentially location of collection, and potentially age of fossil.  
 
 ## Progress
 
