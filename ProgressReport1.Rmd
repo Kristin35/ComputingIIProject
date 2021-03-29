@@ -13,8 +13,11 @@ The goal of this project is to create a tidy, accessible, database using Dr. Utt
 ## Progress
 
 We successfully created a repository on GitHub. We all have joined the repository and have access to it through RStudio. We have created this Progress Report file.
-
-
+https://happygitwithr.com/index.html 
+https://www.youtube.com/watch?v=QJ0iUNe27c8 
+https://www.w3schools.com/python/python_mysql_create_db.asp
+https://github.com/STAT545-UBC/Discussion/issues/93
+https://github.com/STAT545-UBC/Discussion/issues/387
 
 ## Resources Consulted
 
