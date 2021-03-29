@@ -13,16 +13,15 @@ The goal of this project is to create a tidy, accessible, database using Dr. Utt
 ## Progress
 
 We successfully created a repository on GitHub. We all have joined the repository and have access to it through RStudio. We have created this Progress Report file.
-https://happygitwithr.com/index.html 
-https://www.youtube.com/watch?v=QJ0iUNe27c8 
-https://www.w3schools.com/python/python_mysql_create_db.asp
-https://github.com/STAT545-UBC/Discussion/issues/93
-https://github.com/STAT545-UBC/Discussion/issues/387
 
 ## Resources Consulted
 
 We have spoken with Dr. Utt about accessing the fossils for a period of time in order to collect infromation from them to put into our database.
-
+https://happygitwithr.com/index.html 
+https://www.youtube.com/watch?v=QJ0iUNe27c8 
+https://www.w3schools.com/python/python_mysql_create_db.asp
+https://github.com/STAT545-UBC/Discussion/issues/93
+https://github.com/STAT545-UBC/Discussion/issues/387 
 
 ## Project Portion Assignments
 Andrea, Meagan, and myself (Kristin) are working on the input data section of this project. This will include the name, age, size, and date of addition of each ammonite we incorporate. Brecken and Sarah are doing the output of the data. This will include adding searching element for a specific ammonite that is a part of the input section.
