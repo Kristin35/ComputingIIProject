@@ -32,6 +32,7 @@ Andrea, Meagan, and myself (Kristin) are working on the input data section of th
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 <<<<<<< HEAD
@@ -42,3 +43,6 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 >>>>>>> 3c5892a7e107c5715ee10ca5b7c979fafa971ada
 =======
 >>>>>>> eb8fba78e55789f561df514285bc9693d9524e9a
+=======
+
+>>>>>>> 7702b4a3722ffd182c41dab604a426e2bdb22b2b
