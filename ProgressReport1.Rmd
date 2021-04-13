@@ -15,7 +15,6 @@ The goal of this project is to create a tidy, accessible, database using Dr. Utt
 We successfully created a repository on GitHub. We all have joined the repository and have access to it through RStudio. We have created this Progress Report file.
 
 
-
 ## Resources Consulted
 
 We have spoken with Dr. Utt about accessing the fossils for a period of time in order to collect infromation from them to put into our database.
