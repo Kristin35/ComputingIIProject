@@ -12,6 +12,14 @@ View(Ammonites)
 ##The above code allows the ammonite excel file to be viewed in RStudio. However, the excel file on your computer needs to be saved, word for word, as "Ammonites.csv". Basically, just download the google sheets file and save is as a .csv file instead of the basic .xlsx file.
 ```
 
+## Creation of ammonite dataframe
+```{r cars}
+
+ammonite <- data.frame("Name" = c("MOLA0001", "MOLAM0002", "MOLAM0003", "MOLAM0004", "MOLAM0005"),
+                     "Genus" = c("Graspedites", "N/A", "Polished Belemnite", "Eleganticeras", "Meta"),
+                     "Species" = c("N/A", "N/A", "N/A", "elegantulum", "tschernyschewi"))
+```
+
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
