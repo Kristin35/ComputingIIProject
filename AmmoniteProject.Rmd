@@ -1,6 +1,6 @@
 ---
 title: "AmmoniteProject"
-author: "Kristin Grandstaff"
+author: "Kristin Grandstaff, Brecken Roquemore"
 date: "4/26/2021"
 output: html_document
 ---
@@ -8,25 +8,26 @@ output: html_document
 ## Creation of ammonite dataframe
 ```{r cars}
 
+<<<<<<< HEAD
 Fossil_Database <- data.frame("Fossil_Type" = c("Ammonites", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""), "Name" = c("", "MOLA0001", "MOLAM0002", "MOLAM0003", "MOLAM0004", "MOLAM0005", "MOLAM0006", "MOLAM0007", "MOLAM0008", "MOLAM0009", "MOLAM0010", "MOLAM0011", "MOLAM0012", "MOLAM0013", "MOLAM0014", "MOLAM0015", "MOLAM0016", "MOLAM0017", "MOLAM0018"),
                      "Genus" = c("", "Graspedites", "N/A", "Polished Belemnite", "Eleganticeras", "Metalegoceras", "N/A", "Hypocladiscites", "N/A", "Lanceolites", 54, "Tissotia", "Microdoceras", "Laevaptychus", "N/A", "N/A", "Muensteroceras", "N/A", "N/A"),
                      "Species" = c("", "N/A", "N/A", "N/A", "elegantulum", "tschernyschewi", "N/A", "subaratus_plantus", "N/A", "compactus", "N/A", "obesa", "N/A", "latus", "N/A", "N/A", "parallelum", "N/A", "N/A"),
                      "Country" = c("", "Russia", "Nepal", "Russia", "England", "Indonesia", "United_Kingdom", "Indonesia", "United_States_of_America", "Indonesia", "Morocco", "Peru", "United_Kingdom", "England", "United_Kingdom", "United_States_of_America", "United_States_of_America", "United_Kingdom", "Morocco"))
+=======
+Ammonites <- data.frame("Name" = c("MOLA0001", "MOLAM0002", "MOLAM0003", "MOLAM0004", "MOLAM0005"),
+                     "Genus" = c("Graspedites", "N/A", "Polished Belemnite", "Eleganticeras", "Meta"),
+                     "Species" = c("N/A", "N/A", "N/A", "elegantulum", "tschernyschewi"),
+                     "Country" = c("Russia", "Nepal", "Russia", "England", "Indonesia"),
+                     "State/Region" = c("NA", "Annapurna, Mustang", "Tarstan Region", "North Yorkshire, Whitby Cannonball", "Timor, Noe Bihati" ),
+                     "Formation" = c("NA","NA","NA","NA","NA"),
+                     "Time Period" = c("Jurassic", "Jurassic", "Late Jurassic", "Lower Jurassic", "Lower Permian"),
+                     "Dates" = c("NA", "185 MYA", "165 MYA", "180 MYA", "NA"),
+                     "Value" = c("NA","NA","NA","NA","NA"),
+                     "Collector" = c("R. Unzha Kostroma", "NA", "Dr. Utt", "NA", "NA"),
+                     "Common Name" = c("NA", "Shaligram", "polished Belemite", "NA", "NA"),
+                     "Descriptor" = c("NA","NA","NA","NA","NA"),
+                     "Miscellaneous" = c("NA", "Kali Gandaki River", "NA", "polished upper lias, falciferum subzone", "NA"))
+>>>>>>> 047cd00df18e2649a75fe80c971cf5e196a4bdce
 ```
 
-## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
