@@ -20,5 +20,21 @@ Fossil_Database <- data.frame("Fossil_Type" = c("Ammonites", "", "", "", "", "",
                               "Collector" = c("", "R. Unzha Kostroma", "N/A", "Dr. Utt", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N. Zachariades", "N/A", "Dr. Utt", "N/A", "N/A", "N/A", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""),
                               "Common_Name" = c("", "N/A", "Shaligram", "polished Belemite", "N/A", "N/A", "N/A", "N/A", "Belemite Guard", "N/A", "Goniatite", "N/A", "N/A", "N/A", "Whitby Snakestone", "N/A", "N/A", "N/A", "Goniatite", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""),
                               "Descriptor" = c("", "N/A","N/A","N/A","N/A","N/A", "N/A", "Mojsisovics", "N/A", "N/A", "N/A", "N/A", "N/A", "Parkinson", "N/A", "N/A", "N/A", "N/A", "N/A", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""),
-                              "Miscellaneous" = c("", "N/A", "Kali_Gandaki_River", "N/A", "polished upper lias, falciferum subzone", "N/A", "Belemite", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "aptychii: paired calcereous plates forming part of the jaw apparatus in certain ammonite families", "N/A", "Rhynocholites", "Mississippian Pd", "Pyritized", "N/A", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""))
+                              "Miscellaneous" = c("", "N/A", "Kali_Gandaki_River", "N/A", "polished upper lias, falciferum subzone", "N/A", "Belemite", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "aptychii: paired calcereous plates forming part of the jaw apparatus in certain ammonite families", "N/A", "Rhynocholites", "Mississippian Pd", "Pyritized", "N/A", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""),
+                              "Images" = c("MOLAM001.png"))
 ```
+
+```{r}
+library("data.table")
+data.table(Fossil_Database)
+data
+```
+
+
+```{r molam1image2, fig.cap='(ref:molam1image2)', out.width="100%"}
+knitr::include_graphics("MOLAM0001.png",dpi=NA)
+```
+
+
+
+
