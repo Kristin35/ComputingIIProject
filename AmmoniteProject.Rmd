@@ -34,6 +34,9 @@ data
 ![MOLAM0001](MOLAM0001.png) 
 
 ![MOLAM0002](MOLAM0002.png)
+![MAZCRK0001](MAZCRK0001.PNG) 
+
+
 
 ```{r molam1image2, eval=FALSE, fig.cap='(ref:molam1image2)', include=FALSE, out.width="100%"}
 knitr::include_graphics("MOLAM0001.png",dpi=NA)
