@@ -69,7 +69,7 @@ data
 
 ![MOLAM0017](MOLAM0017.png)
 
-![MOLAM0018](MOLAM0003.png)
+![MOLAM0018](MOLAM0018.png)
 ```{r molam1image2, eval=FALSE, fig.cap='(ref:molam1image2)', include=FALSE, out.width="100%"}
 knitr::include_graphics("MOLAM0001.png",dpi=NA)
 ```
