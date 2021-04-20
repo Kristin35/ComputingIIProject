@@ -1,0 +1,23 @@
+---
+title: "Test"
+author: "Andrea Redmond"
+date: "4/15/2021"
+output: html_document
+---
+```{sql connection=newdb}
+CREATE TABLE ammonites (
+name varchar(10),
+genus varchar(20),
+species varchar(20),
+country varchar(20),
+state_region varchar(20), 
+time_period varchar(20), 
+dates varchar(20),
+value varchar(20),
+collector varchar(20),
+common_name varchar(20), 
+descriptor varchar(20),
+miscellaneous varchar(100), 
+)
+```
+
