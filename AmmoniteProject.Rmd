@@ -70,7 +70,7 @@ data
 
 ![MAZCRK0001](MAZCRK0001.png)
 
-![MAZCRK0001](MAZCRK0002.png)
+![MAZCRK0002](MAZCRK0002.png)
 
 
 ```{r molam1image2, eval=FALSE, fig.cap='(ref:molam1image2)', include=FALSE, out.width="100%"}
