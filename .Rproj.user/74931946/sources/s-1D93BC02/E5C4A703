@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1618947571102.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E5C4A703",
+    "lastKnownWriteTime" : 4,
+    "last_content_update" : 1618947571102,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "7F68C898",
+        "caption" : "Ammonites",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Ammonites&cache_key=7F68C898",
+        "displayedObservations" : 18,
+        "environment" : "",
+        "object" : "Ammonites",
+        "preview" : 0,
+        "totalObservations" : 18,
+        "variables" : 13
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
