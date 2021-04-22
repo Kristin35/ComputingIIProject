@@ -1,33 +1,3 @@
----
-title: "ProgressReport1"
-author: "Kristin Grandstaff, Brecken Roquemore, Andrea Redmond, Sarah Powell, Meagan Crowson"
-date: "3/28/2021"
-output: html_document
----
-
-
-## Goals 
-
-The goal of this project is to create a tidy, accessible, database using Dr. Utt's ammonite fossil collection. It will be organized by name of specimen, image, date collected, potentially location of collection, and potentially age of fossil.  
-
-## Progress
-
-We successfully created a repository on GitHub. We all have joined the repository and have access to it through RStudio. We have created this Progress Report file.
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 1cb232a34171fe3151b1e976dd7e6ef9c07dd39d
-## Resources Consulted
-
-We have spoken with Dr. Utt about accessing the fossils for a period of time in order to collect infromation from them to put into our database.
-https://happygitwithr.com/index.html 
-https://www.youtube.com/watch?v=QJ0iUNe27c8 
-https://www.w3schools.com/python/python_mysql_create_db.asp
-https://github.com/STAT545-UBC/Discussion/issues/93
-https://github.com/STAT545-UBC/Discussion/issues/387 
-
-## Project Portion Assignments
-Andrea, Meagan, and myself (Kristin) are working on the input data section of this project. This will include the name, age, size, and date of addition of each ammonite we incorporate. Brecken and Sarah are doing the output of the data. This will include adding searching element for a specific ammonite that is a part of the input section.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ee39425058d2eab42231b46b2deaf128be8b81b876c6196d093b462fa988b23
+size 1468

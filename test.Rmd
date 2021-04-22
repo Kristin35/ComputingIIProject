@@ -1,23 +1,3 @@
----
-title: "Test"
-author: "Andrea Redmond"
-date: "4/15/2021"
-output: html_document
----
-```{sql connection=newdb}
-CREATE TABLE ammonites (
-name varchar(10),
-genus varchar(20),
-species varchar(20),
-country varchar(20),
-state_region varchar(20), 
-time_period varchar(20), 
-dates varchar(20),
-value varchar(20),
-collector varchar(20),
-common_name varchar(20), 
-descriptor varchar(20),
-miscellaneous varchar(100), 
-)
-```
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:72bdd2c27d521a49bbd03a81ad9473c3d36dc80a6f690420a19f84599da9696a
+size 417

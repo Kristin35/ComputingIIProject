@@ -1,19 +1,3 @@
-Name,Genus,Species,Country,State/Region,Formation,Time Period,Dates,Value,Collector,Common Name,Descriptor ,Miscellanoues 
-MOLAM0001,Graspedites,N/A,Russia,N/A,N/A,Jurassic,N/A,N/A,R. Unzha Kostroma,N/A,N/A,N/A
-MOLAM0002,N/A,N/A,Nepal,"Annapurna, Mustang",N/A,Jurassic ,~185 mya,N/A,N/A,Shaligram,N/A,Kali Gandaki River
-MOLAM0003,Polished Belemnite,N/A,Russia,Tarstan Region,N/A,Late Jurassic,165 mya,N/A,Dr. Utt Collection,polished Belemite,N/A,N/A
-MOLAM0004,Eleganticeras,elegantulum,England,"North Yorkshire, Whitby Cannonball",N/A,Lower Jurassic,180 myo,N/A,N/A,N/A,N/A,"polished upper lias, falciferum subzone"
-MOLAM0005,Metalegoceras,tschernyschewi,Indonesia,Timor,N/A,Lower Permian,N/A,N/A,N/A,N/A,N/A,N/A
-MOLAM0006,N/A,N/A,United Kingdom,Charmouth,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Belemnite
-MOLAM0007,Hypocladiscites,subaratus plantus,Indonesia,"Timor, Noe Bihati",N/A,"Norian, Triassic",227-208.5 mya ,N/A,N/A,N/A,Mojsisovics ,N/A
-MOLAM0008,N/A,N/A,USA,Wyoming,N/A,N/A,N/A,N/A,N/A,Belemite guard,N/A,N/A
-MOLAM0009,Lanceolites,compactus,Indonesia,"Timor, Noe Bihati",N/A,Lower Triassic Smithian,N/A,N/A,N/A,N/A,N/A,N/A
-MOLAM0010,54,N/A,Morocco,N/A,N/A,N/A,N/A,N/A,N/A,Goniatite,N/A,N/A
-MOLAM0011,Tissotia,obesa,Peru,Cajamarca,N/A,Upper Cretaceous Coniacian,N/A,N/A,N/A,N/A,N/A,N/A
-MOLAM0012,Microdoceras,N/A,United Kingdom,"Black Ven, Lyme Regis",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-MOLAM0013,Laevaptychus,latus,England,"Westbury, Wiltshire",N/A,"Kimmeridgian, Jurassic",157 mya,N/A,N. Zachariades,N/A,Parkinson,aptychii: paired calcereous plates forming part of the jaw apparatus in certain ammonite families
-MOLAM0014,N/A,N/A,United Kingdom,"North Yorkshire, Nr. Whitby Kettleness",N/A,"Bifrons Zone, Commune Subzone, Upper Lias, Lower Jurassic",180 mya,N/A,N/A,Whitby Snakestone,N/A,N/A
-MOLAM0015,N/A,N/A,USA,"Little Glasses Creek, Marshall county, Little Glasses Creek, Oklahoma",N/A,N/A,N/A,N/A,Dr. Utt Collection,N/A ,N/A,Rhynocholites
-MOLAM0016,Muensteroceras,parallelum,USA,"Jackson Co, Indiana",Rockford Limestone,N/A,325 mya,N/A ,N/A ,N/A ,N/A,Mississipian Pd??
-MOLAM0017,N/A,N/A,United Kingdom,Charmouth,N/A,N/A,N/A ,N/A ,N/A ,N/A ,N/A,Pyritized
-MOLAM0018,N/A,N/A,Morocco,N/A,N/A,N/A,N/A ,N/A,N/A,Goniatite,N/A,N/A
+version https://git-lfs.github.com/spec/v1
+oid sha256:846047351a94ea12ab4531341d424ccf250334fa2de4e6ad23b5beaf62787712
+size 2242
